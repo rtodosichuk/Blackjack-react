@@ -1,3 +1,8 @@
+After downloading the project files run the following:
+ 1. **npm install**
+ 2. **npm run start:src**
+
+
 # Starter Kit for [Building Applications in React and Redux in ES6](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
